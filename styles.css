@@ -68,7 +68,7 @@ body {
   color: green;
 }
 #Sr {
- color: #00FF00;
+ color: #FF0000;
 }
 @media only screen and (max-width: 400px){
   *{
@@ -97,6 +97,6 @@ body {
   font-size: 15px;
 }
 #Sr {
- color: #00FF00;
+ color: #FF0000;
 }
 }
