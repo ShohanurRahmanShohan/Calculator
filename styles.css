@@ -67,6 +67,9 @@ body {
   text-decoration: none;
   color: green;
 }
+#Sr {
+ color: #00FF00;
+}
 @media only screen and (max-width: 400px){
   *{
     margin: none;
