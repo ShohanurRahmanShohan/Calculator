@@ -67,7 +67,7 @@ body {
   text-decoration: none;
   color: green;
 }
-#Sr {
+.full{
  color: #FF0000;
 }
 @media only screen and (max-width: 400px){
@@ -96,7 +96,7 @@ body {
   font-family: 'Oi', cursive;
   font-size: 15px;
 }
-#Sr {
+.full{
  color: #FF0000;
 }
 }
