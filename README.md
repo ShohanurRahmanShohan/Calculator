@@ -1,5 +1,13 @@
-#Calculator
-##Ita a JavaScript project for beginners##
-######it's a basic JavaScript calculator you can do multiplication addition and division######
-**[a Website Link of this project](shohanurrahmanshohan.github.io/Calculator)**
-**by Shohanur Rahman**
+## Calculator using javascript 
+Its a basic Calculator with all funtionality
+<br>
+[ LIVE DEMO ](https://shohanurrahmanshohan.github.io/Calculator)
+<br>
+### Tachnology use 
+- HTML5
+- CSS
+- Javascript
+<br>
+  
+### Special Thanks <br>
+[ wev dev simplified ](https://github.com/WebDevSimplified ) 
